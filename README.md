@@ -2,7 +2,7 @@
 
 This command line application is designed for users to record and monitor their fitness activity.
 
-This 0app follows a similar structure to the JavaScript version in the following repo: https://github.com/TonyN96/fitness-tracker-js.
+This app follows a similar structure to the JavaScript version in [this repo](https://github.com/TonyN96/fitness-tracker-js).
 
 The details for app users are stored in the data.xml file.
 
@@ -22,7 +22,7 @@ The details for app users are stored in the data.xml file.
 ## Technologies
 
 - Java, XML
-- XStream (https://x-stream.github.io/index.html)
+- [XStream](https://x-stream.github.io/index.html)
 
 ## Usage
 
