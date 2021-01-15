@@ -1,0 +1,163 @@
+<object-stream>
+  <list>
+    <Member>
+      <name>John Murphy</name>
+      <email>johnmurphy@gmail.com</email>
+      <address>12 Orchard View, Cork</address>
+      <gender>M</gender>
+      <height>1.9</height>
+      <startingWeight>72.7</startingWeight>
+      <chosenPackage>Package 2</chosenPackage>
+      <assessments>
+        <entry>
+          <string>14/11/19</string>
+          <Assessment>
+            <weight>78.2</weight>
+            <thigh>177.5</thigh>
+            <waist>124.2</waist>
+            <comment>Room for Improvement</comment>
+          </Assessment>
+        </entry>
+        <entry>
+          <string>24/01/15</string>
+          <Assessment>
+            <weight>69.1</weight>
+            <thigh>168.5</thigh>
+            <waist>108.8</waist>
+            <comment>Ok John</comment>
+          </Assessment>
+        </entry>
+        <entry>
+          <string>02/08/16</string>
+          <Assessment>
+            <weight>72.9</weight>
+            <thigh>172.5</thigh>
+            <waist>112.3</waist>
+            <comment>Good work John</comment>
+          </Assessment>
+        </entry>
+      </assessments>
+    </Member>
+    <Member>
+      <name>Mary Smith</name>
+      <email>marysmith@gmail.com</email>
+      <address>45 Crescent View, Limerick</address>
+      <gender>F</gender>
+      <height>1.58</height>
+      <startingWeight>58.3</startingWeight>
+      <chosenPackage>Package 1</chosenPackage>
+      <assessments>
+        <entry>
+          <string>19/10/17</string>
+          <Assessment>
+            <weight>72.6</weight>
+            <thigh>166.6</thigh>
+            <waist>120.7</waist>
+            <comment>Ok</comment>
+          </Assessment>
+        </entry>
+        <entry>
+          <string>06/02/20</string>
+          <Assessment>
+            <weight>60.3</weight>
+            <thigh>145.8</thigh>
+            <waist>102.3</waist>
+            <comment>Keep it up</comment>
+          </Assessment>
+        </entry>
+        <entry>
+          <string>02/08/16</string>
+          <Assessment>
+            <weight>62.4</weight>
+            <thigh>87.5</thigh>
+            <waist>108.9</waist>
+            <comment>Ok</comment>
+          </Assessment>
+        </entry>
+      </assessments>
+    </Member>
+    <StudentMember>
+      <name>Daniel Smith</name>
+      <email>danielsmith@gmail.com</email>
+      <address>89 Coolroe, Dublin</address>
+      <gender>Unspecified</gender>
+      <height>2.12</height>
+      <startingWeight>75.6</startingWeight>
+      <chosenPackage>WIT</chosenPackage>
+      <assessments>
+        <entry>
+          <string>30/05/14</string>
+          <Assessment>
+            <weight>78.5</weight>
+            <thigh>125.0</thigh>
+            <waist>116.8</waist>
+            <comment>Good</comment>
+          </Assessment>
+        </entry>
+        <entry>
+          <string>22/03/19</string>
+          <Assessment>
+            <weight>76.8</weight>
+            <thigh>121.3</thigh>
+            <waist>125.6</waist>
+            <comment>Alright</comment>
+          </Assessment>
+        </entry>
+        <entry>
+          <string>28/12/18</string>
+          <Assessment>
+            <weight>80.5</weight>
+            <thigh>173.8</thigh>
+            <waist>122.7</waist>
+            <comment>Not very good</comment>
+          </Assessment>
+        </entry>
+      </assessments>
+      <studentId>20091897</studentId>
+      <collegeName>WIT</collegeName>
+    </StudentMember>
+    <Member>
+      <name>Steven McCarthy</name>
+      <email>stevenmccarthy@gmail.com</email>
+      <address>43 The Lane, Cork</address>
+      <gender>M</gender>
+      <height>1.82</height>
+      <startingWeight>85.2</startingWeight>
+      <chosenPackage>Package 3</chosenPackage>
+      <assessments>
+        <entry>
+          <string>16/06/20</string>
+          <Assessment>
+            <weight>85.0</weight>
+            <thigh>10.0</thigh>
+            <waist>30.5</waist>
+            <comment>Good</comment>
+          </Assessment>
+        </entry>
+      </assessments>
+    </Member>
+  </list>
+  <list>
+    <Trainer>
+      <name>Conor OLeary</name>
+      <email>conoroleary@gmail.com</email>
+      <address>19 The Lawn, Galway</address>
+      <gender>M</gender>
+      <speciality>Running</speciality>
+    </Trainer>
+    <Trainer>
+      <name>Lisa Reily</name>
+      <email>lisareily@gmail.com</email>
+      <address>72 Lee View, Waterford</address>
+      <gender>F</gender>
+      <speciality>Yoga</speciality>
+    </Trainer>
+    <Trainer>
+      <name>Jim Walsh</name>
+      <email>jimwalsh@gmail.com</email>
+      <address>108 Elm View, Mayo</address>
+      <gender>M</gender>
+      <speciality>Boxing</speciality>
+    </Trainer>
+  </list>
+</object-stream>
